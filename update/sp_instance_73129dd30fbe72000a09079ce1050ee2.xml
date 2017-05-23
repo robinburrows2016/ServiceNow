@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>primary</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">a2c019530fbe72000a09079ce1050e6f</sp_column>
+        <sp_widget display_value="SC Categories - BAE">7db3bfc50f7c7200bb20716ce1050e70</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>robin.burrows@baesystems.com</sys_created_by>
+        <sys_created_on>2017-05-23 07:14:24</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>73129dd30fbe72000a09079ce1050ee2</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Browse Catalog</sys_name>
+        <sys_package display_value="Supply Chain" source="x_baes2_spsc">4e96b90b0fba72000a09079ce1050e3e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain">4e96b90b0fba72000a09079ce1050e3e</sys_scope>
+        <sys_update_name>sp_instance_73129dd30fbe72000a09079ce1050ee2</sys_update_name>
+        <sys_updated_by>robin.burrows@baesystems.com</sys_updated_by>
+        <sys_updated_on>2017-05-23 07:51:11</sys_updated_on>
+        <title>Browse Catalog</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"hide_xs": {
+		"value": "",
+		"displayValue": ""
+	},
+	"omit_badges": {
+		"value": "",
+		"displayValue": ""
+	},
+	"check_can_view": {
+		"value": "",
+		"displayValue": ""
+	},
+	"category_layout": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+</record_update>

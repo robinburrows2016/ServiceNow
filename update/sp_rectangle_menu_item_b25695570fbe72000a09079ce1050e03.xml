@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_rectangle_menu_item">
+    <sp_rectangle_menu_item action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <color>default</color>
+        <condition/>
+        <display_1/>
+        <display_2/>
+        <display_date/>
+        <filter/>
+        <glyph/>
+        <hint/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <label>Catalog</label>
+        <order>100</order>
+        <record_script/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description/>
+        <sp_page display_value="sc_view">70f7ca2047101200ba13a5554ee490ff</sp_page>
+        <sp_rectangle_menu/>
+        <sp_rectangle_menu_item/>
+        <sys_class_name>sp_rectangle_menu_item</sys_class_name>
+        <sys_created_by>robin.burrows@baesystems.com</sys_created_by>
+        <sys_created_on>2017-05-23 07:33:40</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b25695570fbe72000a09079ce1050e03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Catalog</sys_name>
+        <sys_package display_value="Supply Chain" source="x_baes2_spsc">4e96b90b0fba72000a09079ce1050e3e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain">4e96b90b0fba72000a09079ce1050e3e</sys_scope>
+        <sys_update_name>sp_rectangle_menu_item_b25695570fbe72000a09079ce1050e03</sys_update_name>
+        <sys_updated_by>robin.burrows@baesystems.com</sys_updated_by>
+        <sys_updated_on>2017-05-23 07:33:40</sys_updated_on>
+        <table/>
+        <type>page</type>
+        <u_mega_menu_properties/>
+        <url/>
+    </sp_rectangle_menu_item>
+</record_update>

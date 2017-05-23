@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_instance_menu">
+    <sp_instance_menu action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <short_description/>
+        <size>md</size>
+        <sp_column/>
+        <sp_widget display_value="Header Menu">5ef595c1cb12020000f8d856634c9c6e</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>robin.burrows@baesystems.com</sys_created_by>
+        <sys_created_on>2017-05-23 07:44:27</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>cc099d570fbe72000a09079ce1050ea4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>SC Header</sys_name>
+        <sys_package display_value="Supply Chain" source="x_baes2_spsc">4e96b90b0fba72000a09079ce1050e3e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain">4e96b90b0fba72000a09079ce1050e3e</sys_scope>
+        <sys_update_name>sp_instance_menu_cc099d570fbe72000a09079ce1050ea4</sys_update_name>
+        <sys_updated_by>robin.burrows@baesystems.com</sys_updated_by>
+        <sys_updated_on>2017-05-23 08:03:11</sys_updated_on>
+        <title>SC Header</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"enable_cart": {
+		"displayValue": "true",
+		"value": true
+	}
+}]]></widget_parameters>
+    </sp_instance_menu>
+</record_update>

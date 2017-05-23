@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_js_include">
+    <sp_js_include action="INSERT_OR_UPDATE">
+        <display_name>spSCService.js</display_name>
+        <source>local</source>
+        <sys_class_name>sp_js_include</sys_class_name>
+        <sys_created_by>robin.burrows@baesystems.com</sys_created_by>
+        <sys_created_on>2017-05-23 06:48:30</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>a1bb0d530fbe72000a09079ce1050e9c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>spSCService.js</sys_name>
+        <sys_package display_value="Supply Chain" source="x_baes2_spsc">4e96b90b0fba72000a09079ce1050e3e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain">4e96b90b0fba72000a09079ce1050e3e</sys_scope>
+        <sys_ui_script display_value="x_baes2_spsc.spSCService.js">1ecb4d530fbe72000a09079ce1050e0a</sys_ui_script>
+        <sys_update_name>sp_js_include_a1bb0d530fbe72000a09079ce1050e9c</sys_update_name>
+        <sys_updated_by>robin.burrows@baesystems.com</sys_updated_by>
+        <sys_updated_on>2017-05-23 06:48:30</sys_updated_on>
+        <url/>
+    </sp_js_include>
+</record_update>

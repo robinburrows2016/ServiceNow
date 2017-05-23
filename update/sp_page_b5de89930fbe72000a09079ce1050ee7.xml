@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <css>body {&#13;
+	background-color: white;&#13;
+  	color: #555;&#13;
+}&#13;
+&#13;
+section.page, section.body  {&#13;
+	padding-top: 0px !important;&#13;
+}&#13;
+&#13;
+.sp-tagline-color {&#13;
+	color: #fc8a3d!important;&#13;
+}&#13;
+&#13;
+.section-spacer {&#13;
+  padding-top:20px!important;&#13;
+}&#13;
+</css>
+        <id>scsp_index</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description>SC Service Portal</short_description>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>robin.burrows@baesystems.com</sys_created_by>
+        <sys_created_on>2017-05-23 07:00:41</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>b5de89930fbe72000a09079ce1050ee7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scsp_index</sys_name>
+        <sys_package display_value="Supply Chain" source="x_baes2_spsc">4e96b90b0fba72000a09079ce1050e3e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Supply Chain">4e96b90b0fba72000a09079ce1050e3e</sys_scope>
+        <sys_update_name>sp_page_b5de89930fbe72000a09079ce1050ee7</sys_update_name>
+        <sys_updated_by>robin.burrows@baesystems.com</sys_updated_by>
+        <sys_updated_on>2017-05-23 07:00:41</sys_updated_on>
+        <title>Supply Chain Service Portal</title>
+    </sp_page>
+</record_update>
